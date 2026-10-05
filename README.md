@@ -1,11 +1,11 @@
-# InsurMinds — Comparador Inteligente de Apólices D&O 🛡️🤖
+# InsurMinds — Comparador Inteligente de Apólices D&O 
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![Python Version](https://img.shields.io/badge/Python-3.11%2B-blue.svg)](https://www.python.org/)
 [![Framework](https://img.shields.io/badge/Framework-Streamlit%20%7C%20Pydantic%20%7C%20OpenAI%2FAnthropic-green.svg)]()
 
 > **Projeto Final de Graduação — Instituto de Inteligência Artificial Aplicada (I2A2)**  
-> **Turma/Grupo:** InsurTechLab  
+> **Grupo:** InsurTechLab  
 > **Tema:** Leitura, Extração, Estruturação e Comparação Inteligente de Apólices D&O (*Directors and Officers*) utilizando Inteligência Artificial Generativa e Agentes Especiais.
 
 ---
